@@ -11,11 +11,9 @@ class ParenthesesCounter {
     // the input is always an integer and is always a positive number
     static int  getInputOfParentheses(){
         Scanner scan = new Scanner(System.in);
-
         System.out.print("Enter the number of parentheses: ");
-        int numberOfParentheses = scan.nextInt();
 
-        return numberOfParentheses;
+        return scan.nextInt();
     }
 
     // the method that counts the number of right parentheses pairs
