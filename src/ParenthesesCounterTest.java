@@ -11,6 +11,8 @@ public class ParenthesesCounterTest {
     @Before
     public void seriesNums() {
         number = new ParenthesesCounter();
+
+        // Catalan numbers from 0 to 10
         seriesOfNumbers = new int[]{1, 1, 2, 5, 14, 42, 132, 429, 1430, 4862, 16796};
     }
 
@@ -21,8 +23,9 @@ public class ParenthesesCounterTest {
     }
 
     @Test
-    public void whenPassCorrectValues() throws Exception {
+    public void ifValueCorrect() throws Exception {
         for (int i = 0; i <= seriesOfNumbers.length - 1; i++) {
+            //comparing results, one by one
             assertThat(seriesOfNumbers[i], is(number.getNumberOfParenthesesPairs(i)));
         }
     }
