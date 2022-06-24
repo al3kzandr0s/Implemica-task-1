@@ -44,3 +44,5 @@ class ParenthesesCounter {
         return resultOfPairs;
     }
 }
+
+

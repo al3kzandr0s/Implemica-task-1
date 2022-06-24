@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb94220c-35ef-4488-b5fc-6f6fbb91f773" name="Changes" comment="2nd Draft">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParenthesesCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParenthesesCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParenthesesCounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParenthesesCounterTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="cb94220c-35ef-4488-b5fc-6f6fbb91f773" name="Changes" comment="Merge remote-tracking branch 'origin/master'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +101,7 @@
       <workItem from="1656041824577" duration="3183000" />
       <workItem from="1656046328563" duration="506000" />
       <workItem from="1656046913865" duration="5125000" />
-      <workItem from="1656072818787" duration="2024000" />
+      <workItem from="1656072818787" duration="2393000" />
     </task>
     <task id="LOCAL-00001" summary="1st Draft">
       <created>1656045812331</created>
@@ -143,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656052011717</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1656075192213</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656075192213</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +166,9 @@
     <MESSAGE value="1st Draft" />
     <MESSAGE value="2тв Draft" />
     <MESSAGE value="2nd Draft" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd Draft" />
+    <MESSAGE value="3rd Draft" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Implemica_task_1$SkobkiTest.ic" NAME="SkobkiTest Coverage Results" MODIFIED="1656050721056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
