@@ -1,17 +1,16 @@
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.*;
 
-public class SkobkiTest {
-    private Skobki number;
+public class ParenthesesCounterTest {
+    private ParenthesesCounter number;
     private int[] seriesOfNumbers;
 
     @Before
-    public void init() {
-        number = new Skobki();
+    public void seriesNums() {
+        number = new ParenthesesCounter();
         seriesOfNumbers = new int[]{1, 1, 2, 5, 14, 42, 132, 429, 1430, 4862, 16796};
     }
 
