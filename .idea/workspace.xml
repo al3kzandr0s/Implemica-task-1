@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb94220c-35ef-4488-b5fc-6f6fbb91f773" name="Changes" comment="1st Draft">
-      <change afterPath="$PROJECT_DIR$/src/SkobkiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implemica-task-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Implemica-task-1.iml" afterDir="false" />
+    <list default="true" id="cb94220c-35ef-4488-b5fc-6f6fbb91f773" name="Changes" comment="2тв Draft">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skobki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skobki.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Skobki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParenthesesCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SkobkiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParenthesesCounterTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,10 +57,19 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SkobkiTest">
+  <component name="RunManager" selected="JUnit.ParenthesesCounterTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Implemica-task-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParenthesesCounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Implemica-task-1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParenthesesCounterTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ParenthesesCounterTest" />
         <item itemvalue="JUnit.SkobkiTest" />
         <item itemvalue="Application.Main" />
       </list>
@@ -93,7 +101,7 @@
       <updated>1656041823015</updated>
       <workItem from="1656041824577" duration="3183000" />
       <workItem from="1656046328563" duration="506000" />
-      <workItem from="1656046913865" duration="4140000" />
+      <workItem from="1656046913865" duration="4531000" />
     </task>
     <task id="LOCAL-00001" summary="1st Draft">
       <created>1656045812331</created>
@@ -102,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656045812331</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2тв Draft">
+      <created>1656051200277</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656051200277</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +136,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st Draft" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st Draft" />
+    <MESSAGE value="2тв Draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="2тв Draft" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Implemica_task_1$SkobkiTest.ic" NAME="SkobkiTest Coverage Results" MODIFIED="1656050721056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

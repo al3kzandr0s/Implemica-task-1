@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Skobki {
+class ParenthesesCounter {
     public static void getResultOfPairs(){
         System.out.println("The result is " + getNumberOfParenthesesPairs(getInput()));
     }
